@@ -1,5 +1,5 @@
 # MSLinkCreatorBashScript
-English translation of a bash script that can be used to created microsoft windows lnk files
+English translation of a bash script that can be used to create microsoft windows lnk files
 
 This script is an exact copy of the script available at the link below but the comments, help text, and one or two other things have been translated to English from French using google translate.
 
