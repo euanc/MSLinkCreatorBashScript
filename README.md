@@ -7,4 +7,4 @@ http://www.mamachine.org/mslink/index.en.html
 
 Please use that link to donate to them original creators and thank them for their work. 
 
-![Initiate](http://url/to/img.png)
+![Initiate](https://github.com/euanc/MSLinkCreatorBashScript/raw/master/mslink-en.PNG)
