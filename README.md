@@ -6,3 +6,5 @@ This script is an exact copy of the script available at the link below but the c
 http://www.mamachine.org/mslink/index.en.html
 
 Please use that link to donate to them original creators and thank them for their work. 
+
+![Initiate](http://url/to/img.png)
